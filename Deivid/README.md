@@ -1,3 +1,4 @@
+## INFORMACIÓN PERSONAL
 
   ### Nombre
    *Deivid Sebastián Medina Rativa*
@@ -26,7 +27,9 @@
  **4. Escuchar Musica**
  >![](https://pa1.narvii.com/6064/359cb747817754e23036d1493bdf6b94eee39740_hq.gif)
  
-###Información adicional
+ 
+### Información adicional
+
 Actualmente resido en la ciudad de Bogotá, vivo con mi madre y hermanos, tengo dos gatas las cuales quiero mucho.
 
 Normalmente soy una persona muy sería además de no gustarme para nada la politica.
