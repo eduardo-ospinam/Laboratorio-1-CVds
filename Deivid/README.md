@@ -47,8 +47,8 @@ C
 
 
 > "Numero de carnet: 2161021"
-![Curso-Gut-Principal.png](https://i.postimg.cc/gcnsP6Hd/Curso-Gut-Principal.png) (https://postimg.cc/F1X3yz6n)
-![Curso-Gut-Remoto.png](https://i.postimg.cc/hjz63ZCQ/Curso-Gut-Remoto.png)(https://postimg.cc/PpHSCynd)
+![Curso-Gut-Principal.png](https://i.postimg.cc/4xHbPt48/Curso-Gut-Principal.png)(https://postimg.cc/ZWZdKWd3)
+![Curso-Gut-Remoto.png](https://i.postimg.cc/2STb4ShH/Curso-Gut-Remoto.png)(https://postimg.cc/pmhLvx08)
 
 
 ## End
