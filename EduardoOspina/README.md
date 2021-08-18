@@ -5,6 +5,8 @@
 *Eduardo Ospina.*
 
 **Septime semestre, *ingenieria* de sistemas.**
+**escuela colombiana de ingenieria**
+>`<link>` : https://www.escuelaing.edu.co/es/estudiantes/
 
 ### Integrantes del grupo.
 
@@ -23,7 +25,10 @@
 1. series.
 	1. variado.
 
-![](https://www.latercera.com/resizer/gXOdyP_YUsjQ2MC6U9sUOv-gRxk=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/ONNUKFN3SNHK7F4KEH2BXHHHUA.jpg)
+### ubicacion
+
+actualemente no me encuentro en bogota, sino en tocancipa por lo que ir presencial a la escuela seria un poco complicado
+
 
 ### las 2 capturas de pantalla.
 
