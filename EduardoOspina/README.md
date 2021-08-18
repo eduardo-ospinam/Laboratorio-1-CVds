@@ -19,10 +19,11 @@
 1. videojuegos.
 	1. FPS.
 
-![](https://logos-download.com/wp-content/uploads/2021/01/Valorant_Logo-700x700.png)
+![](https://img.icons8.com/color/452/valorant.png)
 1. series.
 	1. variado.
 
+![](https://www.latercera.com/resizer/gXOdyP_YUsjQ2MC6U9sUOv-gRxk=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/ONNUKFN3SNHK7F4KEH2BXHHHUA.jpg)
 
 ### las 2 capturas de pantalla.
 
