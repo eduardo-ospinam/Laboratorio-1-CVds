@@ -5,7 +5,7 @@
 *Eduardo Ospina.*
 
 **Septime semestre, *ingenieria* de sistemas.**
-**escuela colombiana de ingenieria**
+#### **escuela colombiana de ingenieria**
 >`<link>` : https://www.escuelaing.edu.co/es/estudiantes/
 
 ### Integrantes del grupo.
