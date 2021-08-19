@@ -5,7 +5,7 @@
 *Eduardo Ospina.*
 
 **Septime semestre, *ingenieria* de sistemas.**
-#### **escuela colombiana de ingenieria**
+#### **Escuela Colombiana De Ingenieria**
 >`<link>` : https://www.escuelaing.edu.co/es/estudiantes/
 
 ### Integrantes del grupo.
@@ -13,7 +13,7 @@
 * Deivid Medina.
 * Eduardo Ospina.
 
-### gustos 
+### Gustos 
 
 1. Basketball.
 
@@ -25,7 +25,7 @@
 1. series.
 	1. variado.
 
-### ubicacion
+### Ubicacion
 
 actualemente no me encuentro en bogota, sino en tocancipa por lo que ir presencial a la escuela seria un poco complicado
 
@@ -34,3 +34,10 @@ actualemente no me encuentro en bogota, sino en tocancipa por lo que ir presenci
 
 A continuacion se insertaran las capturas de pantalla de los
 ejercicios de Main y Remote.
+
+#### Main 
+![](https://i.postimg.cc/4Nt5GVtr/Whats-App-Image-2021-08-18-at-8-38-13-PM.jpg)
+
+#### Remote
+
+![](https://i.postimg.cc/yYPD0NzD/Whats-App-Image-2021-08-18-at-8-38-35-PM.jpg)
